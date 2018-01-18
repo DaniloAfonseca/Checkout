@@ -68,7 +68,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Checkout.Contracts\Checkout.Contracts\Checkout.Contracts.csproj">
+    <ProjectReference Include="..\Checkout.Contracts\Checkout.Contracts.csproj">
       <Project>{e1cb68d0-32d0-425a-ba86-d7c704de103d}</Project>
       <Name>Checkout.Contracts</Name>
     </ProjectReference>

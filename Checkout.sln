@@ -5,9 +5,9 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkout.App", "Checkout.App\Checkout.App.csproj", "{E9B9D88A-47E7-4DEC-B5F9-3C08BB8CF3DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkout.Tests", "Checkout.Tests\Checkout.Tests\Checkout.Tests.csproj", "{82C8646C-B7C6-4F94-9127-9ED401C1EE69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkout.Tests", "Checkout.Tests\Checkout.Tests.csproj", "{82C8646C-B7C6-4F94-9127-9ED401C1EE69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkout.Contracts", "Checkout.Contracts\Checkout.Contracts\Checkout.Contracts.csproj", "{E1CB68D0-32D0-425A-BA86-D7C704DE103D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkout.Contracts", "Checkout.Contracts\Checkout.Contracts.csproj", "{E1CB68D0-32D0-425A-BA86-D7C704DE103D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
